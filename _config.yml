@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyu Song"
+title                    : "Sixing Chen"
 title_separator          : "-"
-name                     : &name "Mingyu Song"
+name                     : &name "Sixing Chen"
 description              : &description "personal website"
-url                      : https://mingyus.github.io # for local test: http://127.0.0.1:4000/ 
+url                      : https://sixingchen028.github.io/ # for local test: http://127.0.0.1:4000/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mingyus/mingyus.github.io"
+repository               : "https://github.com/SixingChen028"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingyu Song"
+  name             : "Sixing Chen"
   avatar           : "profile.jpg"
   bio              : "Computational Cognitive Scientist | Machine Learning Engineer"
   # location         : "Princeton Neuroscience Institute"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=B-JNa78AAAAJ&hl=en"
-  email            : "mingyussong@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Zgc5UOwAAAAJ&hl=en"
+  email            : "sixing.chen@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mingyus"
+  github           : "SixingChen028"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mingyussong"
+  twitter          : "_SixingChen"
   vine             :
   weibo            :
   xing             :
