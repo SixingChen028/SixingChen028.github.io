@@ -52,5 +52,5 @@ Langdon A.J., **Song M.**, Niv Y. (2019) Uncovering the “state”: tracing the
 **Song M.** (2022) Learning to Discover Structure in Animal and Human Decision Tasks. *Princeton University* [[link](https://www.proquest.com/openview/ef5b343066d29e22058820348a73f0ea/1?pq-origsite=gscholar&cbl=18750&diss=y)] [[pdf](http://mingyus.github.io/files/Song_PhDThesis_2022.pdf)]
 
 <br/>
-
-<span style="color:grey; font-size:0.9em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span>
+<!-- 
+<span style="color:grey; font-size:0.9em">The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by these copyrights. These works may not be reposted without the explicit permission of the copyright holder.</span> -->
