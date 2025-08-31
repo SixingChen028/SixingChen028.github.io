@@ -27,4 +27,10 @@ Gao, Y., **Chen, S.**, & Rahnev, D. (2025). Dynamics of sensory and decisional b
 
 **Conference Proceedings**
 
+**Chen, S.**, Callaway, F., Kumar, S., & Mattar, M. G. (2025). Meta-learning of human-like planning strategies. *Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)*, Dublin, Ireland. [oral presentation]
+
 **Chen, S.**, Jensen, K. T., & Mattar, M. G. (2024). Some and done? temporally extended decisions with very few rollouts. In *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46)*.
+
+**Chen, S.**, Jensen, K. T., & Mattar, M. G. (Mar. 2024). Some and done? Temporally extended decisions with very few rollouts. *Computational and Systems Neuroscience (COSYNE)*, Lisbon, Portugal.
+
+**Chen, S.**, Wang M., & Zhang, H. (Nov. 2022). The alternation of human temporal beliefs between different possibilities. *Society for Neuroscience*, San Diego, CA, United States.
