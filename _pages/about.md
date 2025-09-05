@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. stuent at New York University.
+I am Sixing Chen (Chinese: 陈思行), a third-year Ph.D. student in Psychology at New York University, where I work with [Marcelo Mattar](https://www.mattarlab.com/). I study how people plan and reason to solve problems using a combination of computational modeling and behavioral experiments.
 
-Before that, I completed my B.S. in Psychology in Peking University (2018-2023).
-
+Previously, I completed my B.S. in Psychology at Peking University, working with [Hang Zhang](https://mgv.pku.edu.cn/english/people/lbd/sopacs/220156.htm) and [Dobromir Rahnev](https://psychology.gatech.edu/people/dobromir-rahnev) on computational models of uncertainty representation and perceptual decision-making.
