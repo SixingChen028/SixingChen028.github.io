@@ -24,9 +24,12 @@ author_profile: true
 
 Gao, Y., **Chen, S.**, & Rahnev, D. (2025). Dynamics of sensory and decisional biases in perceptual decision making: Insights from the face distortion illusion. *Psychonomic Bulletin & Review, 32*(1), 317-325. [[link](https://link.springer.com/article/10.3758/s13423-024-02539-8)]
 
-**Chen, S.**, Jensen, K. T., & Mattar, M. G. (2024). [Some and done? temporally extended decisions with very few rollouts.] In *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46)*. [[link](https://escholarship.org/uc/item/9gz1c7sg)]
+**Chen, S.**, Jensen, K. T., & Mattar, M. G. (2024). Some and done? temporally extended decisions with very few rollouts. In *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46)*. [[link](https://escholarship.org/uc/item/9gz1c7sg)]
 
 **Chen, S.**, & Rahnev, D. (2023). Confidence response times: Challenging postdecisional models of confidence. *Journal of Vision, 23*(7), 11-11. [[link](https://jov.arvojournals.org/article.aspx?articleid=2791308)]
+
+**Chen, S.**, & Rahnev, D. (under review). Signatures proposed to index perceptual effects emerge in a purely cognitive task [[link](https://osf.io/preprints/psyarxiv/fw5x6_v1)]
+
 
 **Conference Presentations**
 
